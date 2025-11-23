@@ -2,18 +2,6 @@
 
 <!-- Minimal Banner (GitHub-safe: gradient only, no filters) -->
 
-<div align="center" style="margin:12px 0;">
-  <svg width="700" height="56" viewBox="0 0 700 56" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <defs>
-      <linearGradient id="gSafe" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#6fe7ff" />
-        <stop offset="100%" stop-color="#2a6bff" />
-      </linearGradient>
-    </def>
-
-
-  </svg>
-</div>
 
 ---
 
