@@ -1,10 +1,5 @@
 # Hi, I'm Aakash 👋
 
-
-
----
-
-
 ---
 
 ## ⚡ About Me
