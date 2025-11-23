@@ -12,16 +12,6 @@
     </def>
 
 
-<rect width="100%" height="100%" rx="6" fill="transparent" />
-
-<g font-family="Segoe UI, Roboto, system-ui" font-weight="600" font-size="18" fill="#dfeeff" text-anchor="middle">
-  <text x="350" y="28">AakashG-1808 • Developer • Futuristic</text>
-</g>
-
-<!-- Gradient underline (no filters) -->
-<line x1="120" y1="46" x2="580" y2="46" stroke="url(#gSafe)" stroke-width="3" stroke-linecap="round" />
-
-
   </svg>
 </div>
 
