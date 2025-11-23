@@ -1,69 +1,95 @@
 # Hi, I'm Aakash 👋
 
-<!-- Futuristic SVG Banner - Neon Wave -->
+<!-- Minimal Banner with Glowing Accents -->
 
-<div align="center">
-  <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+<div align="center" style="margin:12px 0;">
+  <svg width="700" height="64" viewBox="0 0 700 64" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
     <defs>
-      <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00ffd5" />
-        <stop offset="50%" stop-color="#7a00ff" />
-        <stop offset="100%" stop-color="#00a3ff" />
+      <linearGradient id="gGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#6fe7ff" />
+        <stop offset="50%" stop-color="#4bb0ff" />
+        <stop offset="100%" stop-color="#2a6bff" />
       </linearGradient>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="6" result="coloredBlur" />
+      <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="6" result="blur" />
         <feMerge>
-          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="blur" />
           <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
     </defs>
 
-```
-<rect width="100%" height="100%" rx="8" fill="#0b0f1a" />
 
-<path d="M0 70 C100 30, 220 110, 320 70 C440 20, 560 120, 680 70 C740 44, 800 90, 800 90" fill="none" stroke="url(#g1)" stroke-width="3" filter="url(#glow)" stroke-linecap="round" />
+<rect width="100%" height="100%" rx="6" fill="transparent" />
 
-<g font-family="Segoe UI, Roboto, system-ui" font-weight="600" font-size="20" fill="#e6f7ff" text-anchor="middle">
-  <text x="400" y="36">AakashG-1808</text>
-  <text x="400" y="64" font-size="12" fill="#9fb7ff">Modern • Futuristic • Builder</text>
+<!-- Glowing Title -->
+<g font-family="Segoe UI, Roboto, system-ui" font-weight="600" font-size="18" fill="#dfeeff" text-anchor="middle">
+  <text x="350" y="28">AakashG-1808 • Developer • Futuristic</text>
 </g>
-```
 
-  </svg>
-</div>
+<!-- Glowing underline -->
+<path d="M120 46 L580 46" stroke="url(#gGlow)" stroke-width="3" stroke-linecap="round" filter="url(#softGlow)" />
 
-<!-- Futuristic SVG Banner - Cyber Grid -->
 
-<div align="center" style="margin-top:8px;">
-  <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <rect width="100%" height="100%" rx="6" fill="#02030a" />
-    <g stroke="#08223b" stroke-width="1">
-      <line x1="0" y1="40" x2="800" y2="40" />
-      <line x1="0" y1="20" x2="800" y2="20" />
-      <line x1="0" y1="60" x2="800" y2="60" />
-    </g>
-    <g fill="#04d9ff" font-family="Segoe UI, Roboto, system-ui" font-weight="600">
-      <text x="24" y="28">▦</text>
-      <text x="120" y="28">▦</text>
-      <text x="240" y="28">▦</text>
-      <text x="360" y="28">▦</text>
-      <text x="480" y="28">▦</text>
-      <text x="600" y="28">▦</text>
-      <text x="720" y="28">▦</text>
-    </g>
-    <g fill="#8acbff" font-family="Segoe UI, Roboto, system-ui" font-size="12">
-      <text x="24" y="58">SYSTEM: ONLINE</text>
-      <text x="240" y="58">MODE: CYBER-NEON</text>
-      <text x="520" y="58">STATUS: BUILDING</text>
-    </g>
   </svg>
 </div>
 
 ---
 
-## 🔰 Badges
+## ⚡ About Me
 
+<svg width="100%" height="14" viewBox="0 0 800 14" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="gA" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6fe7ff" /><stop offset="100%" stop-color="#2a6bff" /></linearGradient>
+    <filter id="gGlowA" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b" /><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <line x1="0" y1="7" x2="800" y2="7" stroke="url(#gA)" stroke-width="2" filter="url(#gGlowA)" stroke-linecap="round" opacity="0.9" />
+</svg> 
+<div style="display: flex; gap: 40px;">
+
+<div style="flex: 1; min-width: 250px;">
+
+### 🚀 Who I Am
+
+* 👨‍💻 A developer passionate about clean, modern, futuristic interfaces
+* 🎓 **Currently studying:** Computer Science (update if needed)
+* 🔧 I enjoy building GUIs, tools, and improving my Python skills
+
+### 📫 Contact
+
+* ✉️ **Gmail:** `yourmail@gmail.com`
+* 🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+
+### 🛠️ Skills
+
+* 💻 **Languages:** Python, Java, C, C++
+* 🧰 **Tools:** Git, GitHub, VS Code
+* ⚙️ **Concepts:** OOP, Problem Solving, GUI Dev
+
+### 🎯 Goals
+
+* 🛠️ Build polished applications
+* 🚀 Explore deeper CS topics
+* ⚡ Master GUI frameworks
+
+</div>
+</div>
+
+---
+
+## 🧩 Badges
+
+<svg width="100%" height="10" viewBox="0 0 800 10" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="gB" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4bb0ff" /><stop offset="100%" stop-color="#2a6bff" /></linearGradient>
+    <filter id="gGlowB" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b" /><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <line x1="80" y1="5" x2="720" y2="5" stroke="url(#gB)" stroke-width="2" filter="url(#gGlowB)" stroke-linecap="round" opacity="0.95" />
+</svg> 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -75,66 +101,23 @@
 
 ---
 
-## 👨‍💻 About Me 👋
+## ⚡ Philosophy
 
-## 🚀 Modern & Futuristic Developer Profile
+<svg width="100%" height="12" viewBox="0 0 800 12" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="gC" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6fe7ff" /><stop offset="100%" stop-color="#2a6bff" /></linearGradient>
+    <filter id="gGlowC" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b" /><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <line x1="200" y1="6" x2="600" y2="6" stroke="url(#gC)" stroke-width="3" filter="url(#gGlowC)" stroke-linecap="round" opacity="0.95" />
+</svg>
 
-Welcome to my digital space — a blend of clean design, futuristic aesthetics, and tech‑driven purpose.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 **Currently studying:** Computer Science / Programming (update this as needed)
-* 💡 Passionate about building intuitive, efficient and modern applications
-* 🚀 Always learning, always experimenting, always improving
+> "The future is built by those who code it." 🔮
 
 ---
 
-## 🛠️ Skills
+Let me know if you'd like:
 
-Here are the technologies I work with:
-
-* **Programming Languages:** Python, Java, C, C++
-* **Tools & Platforms:** VS Code, Git, GitHub
-* **Other Skills:** OOP, Problem‑Solving, GUI Development (Tkinter / wxPython)
-
-(Add/remove skills as your stack grows)
-
----
-
-## 🔭 What I'm Working On
-
-* Improving my Python projects
-* Building GUIs and automation tools
-* Exploring advanced CS concepts
-
----
-
-## 📫 Contact Me
-
-* ✉️ **Gmail:** `aakashg1808@gmail.com` (
-* 🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/aakash-g-050536384)
-
----
-
-## ⚡ Fun Zone
-
-"The future belongs to those who code it."
-
----
-
-## 🌐 Futuristic Stats (Optional)
-
-You can enable these by removing the comment markers:
-
-md
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakashG-1808&show_icons=true&theme=tokyonight)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashG-1808&layout=compact&theme=tokyonight)
-
-
----
-
-
-
+* Darker theme
+* Animated accents
+* More futuristic dividers
+* Icon-based section headers
