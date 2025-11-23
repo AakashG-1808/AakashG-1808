@@ -1,11 +1,9 @@
 # Hi, I'm Aakash 👋
 
-<!-- Minimal Banner (GitHub-safe: gradient only, no filters) -->
 
 
 ---
 
-<!-- Optional screenshot reference (local file) -->
 
 ---
 
