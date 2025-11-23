@@ -23,7 +23,7 @@
 
 ### 📫 Contact
 
-* ✉️ **Gmail:** [Mail ID](`aakashg1808@gmail.com`)
+* ✉️ **Gmail:** [Mail ID]<a href="mailto:aakashg1808@gmail.com">
 * 🔗 **LinkedIn:** [Aakash G](https://linkedin.com/in/aakash-g-050536384)
 
 </div>
