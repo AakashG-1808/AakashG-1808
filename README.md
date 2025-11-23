@@ -32,7 +32,7 @@
 
 ### 🛠️ Skills
 
-* 💻 **Languages:** Python, Java, 
+* 💻 **Languages:** Python, Java
 * 🧰 **Tools:** Git, GitHub, VS Code
 * ⚙️ **Concepts:** OOP, Problem Solving, GUI Dev
 
