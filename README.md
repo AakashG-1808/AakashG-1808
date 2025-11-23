@@ -9,7 +9,7 @@
         <stop offset="0%" stop-color="#6fe7ff" />
         <stop offset="100%" stop-color="#2a6bff" />
       </linearGradient>
-    </defs>
+    </def>
 
 
 <rect width="100%" height="100%" rx="6" fill="transparent" />
@@ -28,8 +28,6 @@
 ---
 
 <!-- Optional screenshot reference (local file) -->
-
-<img src="/mnt/data/692272ce-0852-4f93-a25e-a7dfa46ac6b7.png" alt="screenshot" width="640" />
 
 ---
 
