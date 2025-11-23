@@ -17,14 +17,14 @@
 
 ### 🚀 Who I Am
 
-* 👨‍💻 Developer focused on clean, modern, futuristic interfaces
-* 🎓 **Currently studying:** Computer Science
+* 🎓 **Currently studying:** Computer Science and Engineering(Artificial Intelligence and Machine Learning)
 * 🔧 Building GUIs, tools, and improving Python skills
+* 👨‍💻 Developer focused on clean, modern, futuristic interfaces
 
 ### 📫 Contact
 
-* ✉️ **Gmail:** `yourmail@gmail.com`
-* 🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
+* ✉️ **Gmail:** [Mail ID](`aakashg1808@gmail.com`)
+* 🔗 **LinkedIn:** [Aakash G](https://linkedin.com/in/aakash-g-050536384)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ### 🛠️ Skills
 
-* 💻 **Languages:** Python, Java, C, C++
+* 💻 **Languages:** Python, Java, 
 * 🧰 **Tools:** Git, GitHub, VS Code
 * ⚙️ **Concepts:** OOP, Problem Solving, GUI Dev
 
@@ -47,23 +47,3 @@
 
 ---
 
-## 🧩 Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-> "The future is built by those who code it." 🔮
-
----
-
-If you'd like the glow stronger (using an image banner) or want me to remove the screenshot, tell me and I'll update it.
