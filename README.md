@@ -16,7 +16,7 @@
 <div style="flex:1; min-width:260px;">
 
 ### 🚀 Who I Am
-
+* 🎓 **College:** 1st year B.Tech student at PES University
 * 🎓 **Currently studying:** Computer Science and Engineering(Artificial Intelligence and Machine Learning)
 * 🔧 Building GUIs, tools, and improving Python skills
 * 👨‍💻 Developer focused on clean, modern, futuristic interfaces
